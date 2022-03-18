@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ - 🎓 I'm a recent graduate from the North West University BSc in Physics and Computer Science.
+ - 💻 I'm currently building my C# knowledge.
+ - 📨 How you can reach me: seanpietersen7@gmail.com
+
 <!--
 **SeanPietersen/SeanPietersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

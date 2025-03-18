@@ -1,7 +1,6 @@
 ### Hi there 👋
 
- - 🎓 I'm a recent graduate from the North West University BSc in Physics and Computer Science.
- - 💻 I'm currently building my C# knowledge.
+ - 🎓 I'm currently working as a Software Engineer
  - 📨 How you can reach me: seanpietersen7@gmail.com
 
 <!--
